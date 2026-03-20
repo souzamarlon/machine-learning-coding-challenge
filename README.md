@@ -1,4 +1,4 @@
-# Document AI Project - ntd-ml-coding-challenge
+# Document AI Project - machine-learning-coding-challenge
 
 ## Overview
 
